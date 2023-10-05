@@ -25,12 +25,6 @@ let newArr=arr.map(
 )
 console.log(newArr)
 
-----------------------
-let o={
-    name:"vo thi thuy",
-    age:70
-}
-
 arr.push(o)
 
 console.log(arr)
